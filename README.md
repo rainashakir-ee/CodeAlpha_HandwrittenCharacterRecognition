@@ -205,7 +205,7 @@ This project was completed as part of the Machine Learning Internship at CodeAlp
 
 # 👩‍💻 Author
 
-Circuit Thinker  
+RAINA  
 BSEE Student | Machine Learning Enthusiast
 
 ---
